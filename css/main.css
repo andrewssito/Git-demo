@@ -1,4 +1,6 @@
 
+/* HOME TOP LOGO SEC */
+
 .home_top {
     border: 2px solid wheat;
     background-color: wheat;
@@ -54,6 +56,9 @@
     display: inline;
     width: 400px;
 }
+
+
+/* HOME MID CARD SEC */
 
 .home_mid {
     border: 2px solid white;
