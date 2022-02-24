@@ -38,3 +38,69 @@
     font-weight: 300;
     padding-left: 20px;
 }
+
+
+/* FOOTER BAR */
+
+.footer_bar {
+    border: 2px solid wheat;
+    background-color: wheat;
+    padding-bottom: 30px;
+}
+
+.footer_bar-section {
+    margin-top: 40px;
+    display: flex;
+}
+
+.footer_contact {
+    margin-left: 200px;
+    flex: 1;
+}
+
+.footer_hours-one {
+    flex: 3;
+    margin-left: 100px;
+}
+
+.footer_hours-two {
+    flex: 4;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.footer_hours-three {
+    flex: 5;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.footer_social {
+    flex: 6;
+}
+
+.footer_headings {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
+
+.footer_desc-name {
+    color: orange;
+    font-size: 12px;
+}
+
+.footer_desc {
+    color: blue;
+    font-size: 16px;
+}
+
+.footer_social-icons {
+    min-width: 25px;
+    max-width: 25px;
+}
+
+.footer_social-facebook {
+    min-width: 13px;
+    max-width: 13px;
+}
