@@ -15,14 +15,13 @@
     margin-left: 70px;
     margin-top: 60px;
     margin-bottom: 120px;
-    margin-right: 200px;
+    margin-right: 300px;
 }
 
 .home_top-section-right {
     display: inline-block;
     flex: 2;
     margin-top: 45px;
-    margin-right: -500px;
     margin-bottom: 50px;
 }
 
@@ -30,6 +29,7 @@
     font-weight: bold;
     font-size: 32px;
     color: blue;
+    margin-bottom: 30px;
 }
 
 .home_top-tagline {
@@ -43,7 +43,7 @@
     text-align: center;
     color: white;
     font-size: 16px;
-    padding: 4px 0;
+    padding: 4px 30px;
     border: 2px solid orange;
     border-radius: 24px;
     background-color: orange;
@@ -104,6 +104,6 @@
 }
 
 .home_iceland-card {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
