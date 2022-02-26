@@ -6,6 +6,7 @@
 }
 
 
+
 /* NAV BAR */
 
 .nav_top-bar {
@@ -16,15 +17,18 @@
     padding-bottom: 10px;
 }
 
+
 .nav_top-left {
     flex: 1;
 }
+
 
 .nav_top-right {
     flex: 2;
     margin-left: 600px;
     margin-top: 7px
 }
+
 
 .nav_top-logo {
     color: blue;
@@ -33,6 +37,7 @@
     font-weight: bold;
     margin-left: 70px;
 }
+
 
 .nav_top-links {
     color: black;
@@ -43,23 +48,28 @@
 }
 
 
+
 /* FOOTER BAR */
 
 .footer_bar {
     border: 2px solid wheat;
     background-color: wheat;
     padding-bottom: 30px;
+    bottom: 0px;
 }
+
 
 .footer_bar-section {
     margin-top: 40px;
     display: flex;
 }
 
+
 .footer_contact {
     margin-left: 200px;
     flex: 1;
 }
+
 
 .footer_hours-one {
     flex: 3;
@@ -67,20 +77,24 @@
     margin-right: 70px;
 }
 
+
 .footer_hours-two {
     flex: 4;
     margin-right: 60px;
     margin-top: 30px;
 }
 
+
 .footer_hours-three {
     flex: 5;
     margin-top: 30px;
 }
 
+
 .footer_social {
     flex: 6;
 }
+
 
 .footer_social-desc {
     display: flex;
@@ -89,11 +103,13 @@
     width: 200px;
 }
 
+
 .footer_headings {
     font-size: 24px;
     font-weight: bold;
     color: blue;
 }
+
 
 .footer_desc-name {
     color: orange;
@@ -101,17 +117,20 @@
     margin-top: 20px;
 }
 
+
 .footer_desc {
     color: blue;
     font-size: 16px;
     margin-top: 10px;
 }
 
+
 .footer_social-icons {
     min-width: 25px;
     max-width: 25px;
     margin-top: 35px;
 }
+
 
 .footer_social-facebook {
     min-width: 13px;

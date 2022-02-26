@@ -1,4 +1,5 @@
 
+
 /* HOME TOP LOGO SEC */
 
 .home_top {
@@ -6,6 +7,7 @@
     background-color: wheat;
     display: flex;
 }
+
 
 .home_top-section-left {
     display: inline-block;
@@ -18,12 +20,14 @@
     margin-right: 300px;
 }
 
+
 .home_top-section-right {
     display: inline-block;
     flex: 2;
     margin-top: 45px;
     margin-bottom: 50px;
 }
+
 
 .home_top-headline {
     font-weight: bold;
@@ -32,12 +36,14 @@
     margin-bottom: 30px;
 }
 
+
 .home_top-tagline {
     font-weight: 300;
     font-size: 16px;
     margin-top: 0px;
     margin-bottom: 30px;
 }
+
 
 .home_top-button {
     text-align: center;
@@ -52,10 +58,12 @@
     margin-top: 8px;
 }
 
+
 .home_top-logo {
     display: inline;
     width: 400px;
 }
+
 
 
 /* HOME MID CARD SEC */
@@ -64,6 +72,7 @@
     border: 2px solid white;
     background-color: white;
 }
+
 
 .home_mid-header {
     font-size: 21px;
@@ -74,21 +83,25 @@
     display: block;
 }
 
+
 .home_card-section {
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
 
 .home_card {
     position: relative;
     display: inline;
 }
 
+
 .home_card-img {
     width: 20%;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
+
 
 .home_card-name {
     position: absolute;
@@ -99,9 +112,11 @@
     right: 16px;
 }
 
+
 .home_hawaii-card {
     margin-left: 200px;
 }
+
 
 .home_iceland-card {
     margin-left: 40px;

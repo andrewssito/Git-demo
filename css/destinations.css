@@ -1,0 +1,90 @@
+
+
+/* DESTINATION PAGES GENERAL */
+
+.destination_header {
+    color: white;
+    font-size: 72px;
+    padding-top: 50px;
+    margin-left: 70px;
+}
+
+
+.destination_page-cards {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+/* FRIDAY CARDS */
+
+.destination_friday-card {
+    margin-left: 70px;
+    border: 2px solid white;
+    background-color: white;
+    width: 240px;
+    text-align: center;
+}
+
+.destination_saturday-card {
+    margin-left: -250px;
+    border: 2px solid white;
+    background-color: white;
+    width: 240px;
+    text-align: center;
+}
+
+.destination_sunday-card {
+    margin-left: -250px;
+    border: 2px solid white;
+    background-color: white;
+    width: 240px;
+    text-align: center;
+}
+
+
+.destination_heading {
+    font-size: 20px;
+    margin-top: 8px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+.destination_friday-sched {
+    list-style-type: none;
+}
+
+
+.destination_list {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 2px solid wheat;
+    background-color: wheat;
+}
+
+
+.destination_last-item {
+    margin-bottom: 55px;
+}
+
+
+
+/* HAWAII PAGE */
+
+.destination_page-hawaii {
+    background-image: url(../assets/images/hawaii.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 100px;
+}
+
+
