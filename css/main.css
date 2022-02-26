@@ -3,8 +3,8 @@
 /* HOME TOP LOGO SEC */
 
 .home_top {
-    border: 2px solid wheat;
-    background-color: wheat;
+    border: 2px solid #FEFAF5;
+    background-color: #FEFAF5;
     display: flex;
 }
 
@@ -14,6 +14,7 @@
     min-width: 420px;
     max-width: 420px;
     flex: 1;
+    align-items: flex-start;
     margin-left: 70px;
     margin-top: 60px;
     margin-bottom: 120px;
@@ -32,7 +33,7 @@
 .home_top-headline {
     font-weight: bold;
     font-size: 32px;
-    color: blue;
+    color: #335576;
     margin-bottom: 30px;
 }
 
@@ -50,9 +51,9 @@
     color: white;
     font-size: 16px;
     padding: 4px 30px;
-    border: 2px solid orange;
+    border: 2px solid #DB7A4E;
     border-radius: 24px;
-    background-color: orange;
+    background-color: #DB7A4E;
     min-width: 180px;
     max-width: 180px;
     margin-top: 8px;

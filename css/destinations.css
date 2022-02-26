@@ -88,3 +88,19 @@
 }
 
 
+.destination_page-iceland {
+    background-image: url(../assets/images/iceland.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 100px;
+}
+
+
+.destination_page-greece {
+    background-image: url(../assets/images/greece.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 100px;
+}
+
+

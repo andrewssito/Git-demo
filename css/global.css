@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
 }
 
 
@@ -12,8 +12,8 @@
 .nav_top-bar {
     display: flex;
     padding-top: 5px;
-    border: 1px solid white;
-    background-color: white;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
     padding-bottom: 10px;
 }
 
@@ -31,7 +31,7 @@
 
 
 .nav_top-logo {
-    color: blue;
+    color: #335576;
     text-decoration: none;
     font-size: 24px;
     font-weight: bold;
@@ -52,8 +52,8 @@
 /* FOOTER BAR */
 
 .footer_bar {
-    border: 2px solid wheat;
-    background-color: wheat;
+    border: 2px solid #FEFAF5;
+    background-color: #FEFAF5;
     padding-bottom: 30px;
     bottom: 0px;
 }
@@ -107,19 +107,19 @@
 .footer_headings {
     font-size: 24px;
     font-weight: bold;
-    color: blue;
+    color: #335576;
 }
 
 
 .footer_desc-name {
-    color: orange;
+    color: #DB7A4E;
     font-size: 10px;
     margin-top: 20px;
 }
 
 
 .footer_desc {
-    color: blue;
+    color: #335576;
     font-size: 16px;
     margin-top: 10px;
 }
