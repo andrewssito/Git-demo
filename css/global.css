@@ -29,12 +29,23 @@
 
 .nav_top-right {
     flex: 2;
-    margin-left: 600px;
+    margin-left: 650px;
     margin-top: 7px;
-    margin-right: 50px;
     display: flex;
-    justify-content: space-evenly;
 }
+
+
+.nav_right-menu {
+    list-style-type: none;
+    display: flex;
+}
+
+
+.nav_menu-items {
+    flex-direction: column;
+    display: flex;
+}
+
 
 
 .nav_top-logo {
@@ -52,6 +63,8 @@
     text-align: center;
     font-size: 16px;
     font-weight: 300;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 
 
