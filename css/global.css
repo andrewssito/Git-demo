@@ -17,26 +17,30 @@
     padding-top: 5px;
     border: 1px solid #FFFFFF;
     background-color: #FFFFFF;
-    padding-bottom: 10px;
+    padding-bottom: 18px;
 }
 
 
 .nav_top-left {
     flex: 1;
+    margin-top: 7px;
 }
 
 
 .nav_top-right {
     flex: 2;
     margin-left: 600px;
-    margin-top: 7px
+    margin-top: 7px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 
 .nav_top-logo {
     color: #335576;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 70px;
 }
@@ -45,9 +49,34 @@
 .nav_top-links {
     color: black;
     text-decoration: none;
+    text-align: center;
     font-size: 16px;
     font-weight: 300;
-    padding-left: 20px;
+}
+
+
+
+/* NAV LINK UNDERLINES */
+
+.nav_home-link {
+    border-bottom: 3px solid #DB7A4E;
+    padding-bottom: 4px;
+
+}
+
+.nav_greece-link {
+    border-bottom: 3px solid #DB7A4E;
+    padding-bottom: 4px;
+}
+
+.nav_hawaii-link {
+    border-bottom: 3px solid #DB7A4E;
+    padding-bottom: 4px;
+}
+
+.nav_iceland-link {
+    border-bottom: 3px solid #DB7A4E;
+    padding-bottom: 4px;
 }
 
 
@@ -75,28 +104,30 @@
 
 
 .footer_hours-one {
-    flex: 3;
+    flex: 4;
     margin-left: 70px;
+    margin-right: 20px;
 }
 
 
 .footer_hours-two {
     box-sizing: border-box;
-    flex: 4;
-    margin-left: 70px;
-    margin-right: 70px;
-    margin-top: 30px;
+    flex: 5;
+    margin-top: 28px;
+    margin-left: -20px;
 }
 
 
 .footer_hours-three {
     flex: 5;
-    margin-top: 30px;
+    margin-top: 28px;
+    margin-left: -30px;
 }
 
 
 .footer_social {
     flex: 6;
+    margin-left: -70px;
 }
 
 
