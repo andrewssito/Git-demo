@@ -11,6 +11,9 @@
 
 .nav_top-bar {
     display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
     padding-top: 5px;
     border: 1px solid #FFFFFF;
     background-color: #FFFFFF;
@@ -73,14 +76,15 @@
 
 .footer_hours-one {
     flex: 3;
-    margin-left: 100px;
-    margin-right: 70px;
+    margin-left: 70px;
 }
 
 
 .footer_hours-two {
+    box-sizing: border-box;
     flex: 4;
-    margin-right: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
     margin-top: 30px;
 }
 
@@ -120,7 +124,7 @@
 
 .footer_desc {
     color: #335576;
-    font-size: 16px;
+    font-size: 15px;
     margin-top: 10px;
 }
 
